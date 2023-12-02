@@ -15,7 +15,7 @@
 I used visual studio code and also installed inquirer. Then I created an index.js file for my coding.
 
 ## Usage
-Video here*
+[ReadmeDemo.webm](https://github.com/SteveA28/README-Generator/assets/145303651/cbbf561f-e635-44f0-b1e4-5d8ef08e8bf7)
 
 ## License
 This project is licensed under the None license.
