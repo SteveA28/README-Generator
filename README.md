@@ -22,7 +22,7 @@ This project is licensed under the None license.
 ![License Badge](https://img.shields.io/badge/license-None-green)
 
 ## Contributing
-
+Developed by a single contributor.
 
 ## Tests
 
